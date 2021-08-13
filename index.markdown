@@ -5,4 +5,8 @@
 layout: home
 ---
 
-Hi. I know there's not much right now, but I'll figure something out :). Let's try adding some images and see if something works ![image](images/banana_by_mike_dorner.jpg)
+Hi! I'm Andrew Fei.
+
+Currently a senior in computer science at the University of Illinois at Urbana-Champaign. I spend my time drawing, video editing, and playing fighting games.
+
+Let's try adding some images and see if something works ![image](images/banana_by_mike_dorner.jpg)
