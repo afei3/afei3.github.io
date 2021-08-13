@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hi. I know there's not much right now, but I'll figure something out :).
