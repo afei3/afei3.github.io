@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bit Clicker"
-permalink: afei3.github.io/bc
+permalink: /bc/
 ---
 
 [Based on the hit browser game Cookie Clicker](https://orteil.dashnet.org/cookieclicker/), this was my final project for CS 126.
