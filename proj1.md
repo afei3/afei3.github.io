@@ -6,4 +6,4 @@ permalink: /project/
 
 [FER]
 
-[Bit Clicker](afei3.github.io/bc)
+[Bit Clicker](/bc)
