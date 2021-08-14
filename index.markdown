@@ -9,7 +9,7 @@ Hi! I'm Andrew Fei.
 
 Currently a senior in computer science at the University of Illinois at Urbana-Champaign. I spend my time drawing, video editing, and playing fighting games.
 
-![image](images/me.jpg)
+![image](images/me.png)
 
                          ^
                          |
