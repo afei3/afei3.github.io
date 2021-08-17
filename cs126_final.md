@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Bit Clicker"
 permalink: /bc/
 ---
