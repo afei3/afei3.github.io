@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bit Clicker"
 permalink: /bc/
 ---
@@ -8,4 +7,4 @@ permalink: /bc/
 
 ![image](images/final_proj.png)
 
-Project I worked on for a few weeks at the end of my freshman year. Utilizing several different OpenFramework modules, such as the visual and json ones, I was able to create all the functionality necessary for a game, such as a UI and save/load functions.
+Project I worked on for a few weeks at the end of my freshman year. Utilizing several different OpenFramework modules, such as the visual and JSON ones, I was able to create all the functionality necessary for a game, such as a UI and save/load functions.
