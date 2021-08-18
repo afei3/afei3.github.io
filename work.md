@@ -4,8 +4,9 @@ title: Past Work Experiences
 permalink: /work/
 ---
 
-Summer-Winter 2020
-
-Fall 2019-Spring 2020
-
-Summer 2019
+- Summer-Winter 2020
+  - Ameren Co-op
+- Fall 2019-Spring 2020
+  - CS 126 (Software Studio Design) CA
+- Summer 2019
+  - NSLC Cybersecurity Assistant Team Advisor

@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Like I said before, I am currently a senior in Computer Science.
+Like I said before, I am currently a senior in Computer Science. I currently work in [research under Matthew Caesar](/research/) as an Undergraduate researcher. I was a GM for the [Illini Metagamers](https://illini-rp.net/), a club dedicated to board games and D&D esq role-playing.
+
+I love the idea of working with, and being able to take apart, large systems and how they function. 
 
 --------------------------------------------------------------------------------
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site was made using Jekyll which you can learn more here -> [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
