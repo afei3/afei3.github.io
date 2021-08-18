@@ -1,6 +1,6 @@
 ---
 title: "Bit Clicker"
-permalink: /bc/
+permalink: /proj/bc/
 ---
 
 [Based on the hit browser game Cookie Clicker](https://orteil.dashnet.org/cookieclicker/), this was my final project for CS 126.
