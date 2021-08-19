@@ -4,6 +4,6 @@ title: "Projects"
 permalink: /project/
 ---
 
-[FER]
+[FER](/fer/)
 
-[Bit Clicker](/bc)
+[Bit Clicker](/bc/)

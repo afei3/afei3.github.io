@@ -10,3 +10,4 @@ permalink: /work/
   - CS 126 (Software Studio Design) CA
 - Summer 2019
   - NSLC Cybersecurity Assistant Team Advisor
+  - Math 241 (Calculus III) NetMath CA
