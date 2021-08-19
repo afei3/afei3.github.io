@@ -15,4 +15,4 @@ Currently a senior in computer science at the University of Illinois at Urbana-C
                          |
 That's me! Up there!
 
-If you want to learn more [Click Here](about)
+If you want to learn more [Click Here](/about)
