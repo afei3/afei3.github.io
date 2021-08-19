@@ -21,6 +21,7 @@ A list of things I plan to work on at a bare minimum follows:
 Updates:
 
 8-18-2021
+
 ![update](images/8-18-2021.png)
 
 The game currently supports movement of the cursor on screen using the directional keys, as well as animation. Also implemented, but not shown is the path finding algorithm that can properly stop at the rivers and move along the plains.
