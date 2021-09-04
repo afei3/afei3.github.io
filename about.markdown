@@ -17,7 +17,7 @@ The following are professional fields I am currently interested in:
 
 
 # Contact
-My email is **ayfei1001 AT gmail**. There's a good chance that you can find me on other services as Xenoqwerty
+My email is **ayfei1001 AT gmail**. There's a good chance that you can find me on other services as Xenoqwerty.
 
 --------------------------------------------------------------------------------
 This site was made using Jekyll which you can learn more here: [jekyllrb.com](https://jekyllrb.com/)

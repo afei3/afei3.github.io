@@ -20,6 +20,13 @@ A list of things I plan to work on at a bare minimum follows:
 
 Updates:
 
+9-3-2021
+
+![update](images/9-3-2021-1.png)
+![update](images/9-3-2021-2.png)
+
+Small update in between the course work that I am currently saddled with. The field is now colored if you press the 'x' button to toggle between what will eventually be a character select and moving the mouse.
+
 8-18-2021
 
 ![update](images/8-18-2021.png)
