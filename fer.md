@@ -27,6 +27,10 @@ Updates:
 
 Small update in between the course work that I am currently saddled with. The field is now colored if you press the 'x' button to toggle between what will eventually be a character select and moving the mouse.
 
+Right now, the current plan is to slowly but surely implement something like this:
+
+![update](images/plan.png)
+
 8-18-2021
 
 ![update](images/8-18-2021.png)
