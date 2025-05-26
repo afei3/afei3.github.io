@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Like I said before, I am currently a senior in Computer Science (CS). I currently work in [research under Matthew Caesar](/research/) as an Undergraduate researcher. I was a GM for the [Illini Metagamers](https://illini-rp.net/), a club dedicated to board games and D&D.
-
 The following are professional fields I am currently interested in:
 - Networking
   - Dealing with how computers and devices interact and "talk" with each other
@@ -16,11 +14,18 @@ The following are professional fields I am currently interested in:
   - Focusing on the education of younger generations to generate interest in future technologies
 
 
+Some Fun Facts:
+- (Current) Favorite Song: [Somniomancer](https://open.spotify.com/track/5oCptG3RbPTbXKFpVjUgmw)
+- Favorite Movie: [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
+- Favorite TV Show: [Interior Chinatown](https://www.hulu.com/series/interior-chinatown-52c074a7-5680-4f60-9b7e-a6008238207d)
+
+
+
 # Contact
 My email is **ayfei1001 AT gmail**. There's a good chance that you can find me on other services as Xenoqwerty.
 
 --------------------------------------------------------------------------------
-This site was made using Jekyll which you can learn more here: [jekyllrb.com](https://jekyllrb.com/)
+Want to make something as epic and awesome as this? This site was made using Jekyll which you can learn more here: [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

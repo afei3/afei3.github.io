@@ -7,7 +7,7 @@ layout: home
 
 Hi! I'm Andrew Fei.
 
-Currently a senior in computer science at the University of Illinois at Urbana-Champaign. I spend my time drawing, video editing, and playing fighting games.
+Currently a full time Software Engineer at Epic Systems. (Very) amateur artist and piano player.
 
 ![image](images/me.png)
 

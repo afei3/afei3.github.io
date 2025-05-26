@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-Currently I help [Matthew Caesar](https://caesar.web.engr.illinois.edu/) with his projects in large scale Internet-of-Things (IoT) research.
+During college, I helped [Matthew Caesar](https://caesar.web.engr.illinois.edu/) with his projects in large scale Internet-of-Things (IoT) research.
 
 Some of the tasks I have helped with are:
 
