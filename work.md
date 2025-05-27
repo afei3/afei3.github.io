@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Past (And Current) Work Experiences
+title: Current (and Past) Work Experiences
 permalink: /work/
 ---
 - Summer 2022 - Now
   - "Full" Stack Software Engineer @ Epic Systems
-    - Mostly focused on backend work creating tools to help hospital tackle the challenge that is Population Knowledge
+    - Mostly focused on backend work creating tools to help hospital tackle the challenge that is Population Health
+      - Bulk Flat File Filing
+        - Help enhance functionality to allow millions of lines of raw data filed directly into Epic
 - Summer 2021 - Summer 2022
   - Research assistant for [Matthew Caesar](https://caesar.web.engr.illinois.edu/)
 - Summer-Winter 2020
