@@ -16,7 +16,6 @@ The following are technology related fields I am currently interested in:
   - Different applications for emulation us VR (e.g. Military/Healthcare simulations)
 - Game Development
   - Something to put my extra creative energy into.
-  - Spreading the word of Thor, Goblin Lord - [Go Make Games!](https://develop.games/)
 - Technology Education
   - Focusing on the education of younger generations to generate interest in future technologies.
 - Cybersecurity
